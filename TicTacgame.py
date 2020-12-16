@@ -156,7 +156,7 @@ while True:
 
             if isWinner(theBoard, playerLetter):
                 drawBoard(theBoard)
-                print('কিরে হালা তুই তো জিতা গেলি ট্রিট দে বন্ধু!')
+                print('কিরে হালা তুই তো জিতা গেলি গা। ট্রিট দে বন্ধু!')
                 gameIsPlaying = False
             else:
                 if isBoardFull(theBoard):
